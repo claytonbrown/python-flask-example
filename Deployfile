@@ -1,0 +1,4 @@
+# Example container initialisation commands
+# These should be idempotent
+dosomthing: /bin/true
+somethingelse: /bin/true
